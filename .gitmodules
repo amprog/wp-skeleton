@@ -28,3 +28,36 @@
 [submodule "content/mu-plugins/wp-pretty-embed"]
 	path = content/mu-plugins/wp-pretty-embed
 	url = git@github.com:amprog/wp-pretty-embed.git
+[submodule "content/plugins/shortcode-ui"]
+	path = content/plugins/shortcode-ui
+	url = git@github.com:amprog/shortcode-ui.git
+[submodule "content/plugins/json-rest-api"]
+	path = content/plugins/json-rest-api
+	url = git@github.com:amprog/json-rest-api.git
+[submodule "content/plugins/cap-social-highlighter"]
+	path = content/plugins/cap-social-highlighter
+	url = git@github.com:amprog/cap-social-highlighter.git
+[submodule "content/plugins/gravity-forms-survey"]
+	path = content/plugins/gravity-forms-survey
+	url = git@github.com:amprog/gravity-forms-survey.git
+[submodule "content/plugins/gravity-forms-stripe"]
+	path = content/plugins/gravity-forms-stripe
+	url = git@github.com:amprog/gravity-forms-stripe.git
+[submodule "content/plugins/gravity-forms-polls"]
+	path = content/plugins/gravity-forms-polls
+	url = git@github.com:amprog/gravity-forms-polls.git
+[submodule "content/plugins/gravity-forms-quiz"]
+	path = content/plugins/gravity-forms-quiz
+	url = git@github.com:amprog/gravity-forms-quiz.git
+[submodule "content/plugins/cap-byline"]
+	path = content/plugins/cap-byline
+	url = git@github.com:amprog/cap-byline.git
+[submodule "content/plugins/cap-content-blocks"]
+	path = content/plugins/cap-content-blocks
+	url = git@github.com:amprog/cap-content-blocks.git
+[submodule "content/plugins/gravity-forms-slack"]
+	path = content/plugins/gravity-forms-slack
+	url = git@github.com:amprog/gravity-forms-slack.git
+[submodule "content/plugins/slack"]
+	path = content/plugins/slack
+	url = git@github.com:amprog/slack.git
