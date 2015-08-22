@@ -1,6 +1,5 @@
 /shared
-/local-config.php
-/sql-dump-*.sql
-/db-sync
+*.sql
 /content/upgrade/
 .DS_Store
+wp-salt.php
