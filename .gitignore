@@ -1,5 +1,5 @@
-/shared
 *.sql
 /content/upgrade/
 .DS_Store
 wp-salt.php
+wp-config.php
