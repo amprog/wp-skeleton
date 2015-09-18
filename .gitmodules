@@ -55,3 +55,9 @@
 [submodule "content/plugins/shortcake"]
 	path = content/plugins/shortcake
 	url = git@github.com:amprog/shortcake
+[submodule "content/plugins/cap-overlay"]
+	path = content/plugins/cap-overlay
+	url = git@github.com:amprog/cap-overlay
+[submodule "content/plugins/cap-podcaster"]
+	path = content/plugins/cap-podcaster
+	url = git@github.com:amprog/cap-podcaster
