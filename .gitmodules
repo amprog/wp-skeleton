@@ -1,63 +1,57 @@
 [submodule "wp"]
 	path = wp
-	url = git://github.com/WordPress/WordPress.git
+	url = git://github.com/WordPress/WordPress
 [submodule "content/mu-plugins/amazon-web-services"]
 	path = content/mu-plugins/amazon-web-services
-	url = git@github.com:amprog/amazon-web-services.git
+	url = git@github.com:amprog/amazon-web-services
 [submodule "content/mu-plugins/amazon-s3-and-cloudfront"]
 	path = content/mu-plugins/amazon-s3-and-cloudfront
-	url = git@github.com:amprog/amazon-s3-and-cloudfront.git
+	url = git@github.com:amprog/amazon-s3-and-cloudfront
 [submodule "content/mu-plugins/wp-ses"]
 	path = content/mu-plugins/wp-ses
-	url = git@github.com:amprog/wp-ses.git
+	url = git@github.com:amprog/wp-ses
 [submodule "content/mu-plugins/wordpress-seo"]
 	path = content/mu-plugins/wordpress-seo
-	url = git@github.com:amprog/wordpress-seo.git
+	url = git@github.com:amprog/wordpress-seo
 [submodule "content/plugins/jetpack"]
 	path = content/plugins/jetpack
-	url = git@github.com:amprog/jetpack.git
+	url = git@github.com:amprog/jetpack
 [submodule "content/mu-plugins/ewww-image-optimizer"]
 	path = content/mu-plugins/ewww-image-optimizer
-	url = git@github.com:amprog/ewww-image-optimizer.git
+	url = git@github.com:amprog/ewww-image-optimizer
 [submodule "content/mu-plugins/gravity-forms"]
 	path = content/mu-plugins/gravity-forms
-	url = git@github.com:amprog/gravity-forms.git
+	url = git@github.com:amprog/gravity-forms
 [submodule "content/mu-plugins/acf-pro"]
 	path = content/mu-plugins/acf-pro
-	url = git@github.com:amprog/acf-pro.git
+	url = git@github.com:amprog/acf-pro
 [submodule "content/mu-plugins/wp-pretty-embed"]
 	path = content/mu-plugins/wp-pretty-embed
-	url = git@github.com:amprog/wp-pretty-embed.git
-[submodule "content/plugins/shortcode-ui"]
-	path = content/plugins/shortcode-ui
-	url = git@github.com:amprog/shortcode-ui.git
-[submodule "content/plugins/json-rest-api"]
-	path = content/plugins/json-rest-api
-	url = git@github.com:amprog/json-rest-api.git
+	url = git@github.com:amprog/wp-pretty-embed
 [submodule "content/plugins/cap-social-highlighter"]
 	path = content/plugins/cap-social-highlighter
-	url = git@github.com:amprog/cap-social-highlighter.git
+	url = git@github.com:amprog/cap-social-highlighter
 [submodule "content/plugins/gravity-forms-survey"]
 	path = content/plugins/gravity-forms-survey
-	url = git@github.com:amprog/gravity-forms-survey.git
+	url = git@github.com:amprog/gravity-forms-survey
 [submodule "content/plugins/gravity-forms-stripe"]
 	path = content/plugins/gravity-forms-stripe
-	url = git@github.com:amprog/gravity-forms-stripe.git
+	url = git@github.com:amprog/gravity-forms-stripe
 [submodule "content/plugins/gravity-forms-polls"]
 	path = content/plugins/gravity-forms-polls
-	url = git@github.com:amprog/gravity-forms-polls.git
+	url = git@github.com:amprog/gravity-forms-polls
 [submodule "content/plugins/gravity-forms-quiz"]
 	path = content/plugins/gravity-forms-quiz
-	url = git@github.com:amprog/gravity-forms-quiz.git
+	url = git@github.com:amprog/gravity-forms-quiz
 [submodule "content/plugins/cap-byline"]
 	path = content/plugins/cap-byline
-	url = git@github.com:amprog/cap-byline.git
+	url = git@github.com:amprog/cap-byline
 [submodule "content/plugins/cap-content-blocks"]
 	path = content/plugins/cap-content-blocks
-	url = git@github.com:amprog/cap-content-blocks.git
+	url = git@github.com:amprog/cap-content-blocks
 [submodule "content/plugins/gravity-forms-slack"]
 	path = content/plugins/gravity-forms-slack
-	url = git@github.com:amprog/gravity-forms-slack.git
-[submodule "content/plugins/slack"]
-	path = content/plugins/slack
-	url = git@github.com:amprog/slack.git
+	url = git@github.com:amprog/gravity-forms-slack
+[submodule "content/plugins/shortcake"]
+	path = content/plugins/shortcake
+	url = git@github.com:amprog/shortcake
