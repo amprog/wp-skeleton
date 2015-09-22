@@ -1,7 +1,6 @@
 <?php
 
 $wordpress_url = 'http://site.org';
-$table_prefix = 'wp_';
 
 define( 'WP_HOME',                  $wordpress_url );
 define( 'WP_SITEURL',               $wordpress_url );
