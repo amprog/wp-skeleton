@@ -61,3 +61,39 @@
 [submodule "content/plugins/cap-podcaster"]
 	path = content/plugins/cap-podcaster
 	url = git@github.com:amprog/cap-podcaster
+[submodule "content/plugins/busted"]
+	path = content/plugins/busted
+	url = git@github.com:amprog/busted
+[submodule "content/plugins/wordpress-importer"]
+	path = content/plugins/wordpress-importer
+	url = git@github.com:amprog/wordpress-importer
+[submodule "content/plugins/rs-csv-importer"]
+	path = content/plugins/rs-csv-importer
+	url = git@github.com:amprog/rs-csv-importer
+[submodule "content/plugins/cap-toaster"]
+	path = content/plugins/cap-toaster
+	url = git@github.com:amprog/cap-toaster
+[submodule "content/plugins/cap-short-urls"]
+	path = content/plugins/cap-short-urls
+	url = git@github.com:amprog/cap-short-urls
+[submodule "content/plugins/fd-footnotes"]
+	path = content/plugins/fd-footnotes
+	url = git@github.com:amprog/fd-footnotes
+[submodule "content/plugins/wp-api"]
+	path = content/plugins/wp-api
+	url = git@github.com:amprog/wp-api
+[submodule "content/plugins/cap-reports"]
+	path = content/plugins/cap-reports
+	url = git@github.com:amprog/cap-reports
+[submodule "content/plugins/redis-object-cache"]
+	path = content/plugins/redis-object-cache
+	url = git@github.com:amprog/redis-object-cache
+[submodule "content/plugins/query-monitor"]
+	path = content/plugins/query-monitor
+	url = git@github.com:amprog/query-monitor
+[submodule "content/plugins/regenerate-thumbnails"]
+	path = content/plugins/regenerate-thumbnails
+	url = git@github.com:amprog/regenerate-thumbnails
+[submodule "content/plugins/wp-crontrol"]
+	path = content/plugins/wp-crontrol
+	url = git@github.com:amprog/wp-crontrol
