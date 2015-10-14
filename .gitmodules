@@ -2,31 +2,31 @@
 	path = wp
 	url = git://github.com/WordPress/WordPress
 [submodule "content/mu-plugins/amazon-web-services"]
-	path = content/mu-plugins/amazon-web-services
+	path = content/plugins/amazon-web-services
 	url = git@github.com:amprog/amazon-web-services
 [submodule "content/mu-plugins/amazon-s3-and-cloudfront"]
-	path = content/mu-plugins/amazon-s3-and-cloudfront
+	path = content/plugins/amazon-s3-and-cloudfront
 	url = git@github.com:amprog/amazon-s3-and-cloudfront
 [submodule "content/mu-plugins/wp-ses"]
-	path = content/mu-plugins/wp-ses
+	path = content/plugins/wp-ses
 	url = git@github.com:amprog/wp-ses
 [submodule "content/mu-plugins/wordpress-seo"]
-	path = content/mu-plugins/wordpress-seo
+	path = content/plugins/wordpress-seo
 	url = git@github.com:amprog/wordpress-seo
 [submodule "content/plugins/jetpack"]
 	path = content/plugins/jetpack
 	url = git@github.com:amprog/jetpack
 [submodule "content/mu-plugins/ewww-image-optimizer"]
-	path = content/mu-plugins/ewww-image-optimizer
+	path = content/plugins/ewww-image-optimizer
 	url = git@github.com:amprog/ewww-image-optimizer
 [submodule "content/mu-plugins/gravity-forms"]
-	path = content/mu-plugins/gravity-forms
+	path = content/plugins/gravity-forms
 	url = git@github.com:amprog/gravity-forms
 [submodule "content/mu-plugins/acf-pro"]
-	path = content/mu-plugins/acf-pro
+	path = content/plugins/acf-pro
 	url = git@github.com:amprog/acf-pro
 [submodule "content/mu-plugins/wp-pretty-embed"]
-	path = content/mu-plugins/wp-pretty-embed
+	path = content/plugins/wp-pretty-embed
 	url = git@github.com:amprog/wp-pretty-embed
 [submodule "content/plugins/cap-social-highlighter"]
 	path = content/plugins/cap-social-highlighter
