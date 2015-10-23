@@ -97,3 +97,6 @@
 [submodule "content/plugins/wp-crontrol"]
 	path = content/plugins/wp-crontrol
 	url = git@github.com:amprog/wp-crontrol
+[submodule "content/plugins/redirection"]
+	path = content/plugins/redirection
+	url = git@github.com:amprog/redirection
